@@ -1,5 +1,5 @@
-# Exercise <number>
-# <Exercise_name> 
+# Exercise<number>
+## <Exercise_name> 
 
 ## What this exercise taught me
 
