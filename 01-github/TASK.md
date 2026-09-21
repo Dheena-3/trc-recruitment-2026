@@ -11,7 +11,7 @@ Complete the exercises on **[Git Exercises](https://gitexercises.fracz.com/)**.
    - Commands you learned and answered
    - Challenges you faced
 
-Use [`exercise_template.md`](exercise_template.md) as the starting point.
+Use [`exercise_template.md`](exercise_template.md) as the standard template for all the files feel free to add images to convey the content.
 
 ## What to put in this folder
 
