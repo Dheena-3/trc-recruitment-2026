@@ -35,11 +35,3 @@ For every task, commit the design file and a screenshot of it:
     └── bonus/              <- optional
 ```
 
-## Checklist
-
-- [ ] Level 1, Task 0 completed (mandatory)
-- [ ] Level 1, Task 1A completed (mandatory)
-- [ ] Level 2, Task 1B attempted
-- [ ] Bonus task attempted (optional)
-- [ ] Design file and screenshot committed for every task
-- [ ] Mentors added as collaborators
