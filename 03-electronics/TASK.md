@@ -15,8 +15,6 @@
 3. It is highly preferred to avoid AI wherever possible, especially when writing code.
 4. Use Tinkercad to simulate the circuit.
 
-**Note:** if you choose this domain together with Mobile Robotics, Mechanical Design is not mandatory.
-Interested students can attempt all domains.
 
 ## What to put in this folder
 
@@ -27,15 +25,20 @@ Follow the deliverables listed in each task document. One folder per level:
 ├── TASK.md                 <- this file, don't edit
 ├── level-easy/             <- code, circuit/simulation files and screenshots
 ├── level-medium/
-└── level-hard-bonus/       <- optional
+└── level-hard-bonus/       
 ```
+**Notes**:For each question in each level, you can create a Folder(<Question_1>) with the [Sample file](sample_mobile.md) ,code(.ino or .c) and circuit diagrams.
 
-## Checklist
-
-- [ ] Arduino IDE installed; Wokwi and Tinkercad accounts ready
-- [ ] Easy level completed (compulsory)
-- [ ] Medium level completed (compulsory)
-- [ ] Hard level attempted (bonus, optional)
-- [ ] Circuits simulated in Tinkercad
-- [ ] Meaningful names used for inputs and outputs
-- [ ] Everything committed and pushed; mentors added as collaborators
+```
+├── level-easy/
+        ├──Question_1/
+               ├── Sample.md
+               ├── Code(.ino or .c)
+               ├── Circuit
+        ├──Question_2/
+               ├── Sample.md
+               ├── Code(.ino or .c)
+               ├── Circuit
+        ....
+```
+  
