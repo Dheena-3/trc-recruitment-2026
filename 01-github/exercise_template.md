@@ -1,4 +1,4 @@
-# Exercise<number>
+# Exercise: no.
 ## <Exercise_name> 
 
 ## What this exercise taught me
