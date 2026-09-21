@@ -3,8 +3,8 @@
 Submission template for the **Induction – The Robotics Club (TRC) 2026** recruitment tasks.
 Each domain has its own folder, and each folder has a `TASK.md` with the tasks, rules and what to submit.
 
-| Folder | Domain | Read |
-| --- | --- | --- |
+| Folder | Domain |
+| --- | --- |
 | [`01-github/`](01-github/) | Git & GitHub |  
 | [`02-mobile-robotics/`](02-mobile-robotics/) | Mobile Robotics | 
 | [`03-electronics/`](03-electronics/) | Electronics | 
