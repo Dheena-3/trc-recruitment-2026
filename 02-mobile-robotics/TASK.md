@@ -23,12 +23,4 @@ Follow the deliverables listed in the task document. Put everything for a task i
     └── task-1a/            <- your code, world/project files and screenshots for Task 1A
 ```
 
-Add further task folders under `level-1-we-bots/` (for example `task-1b/`) if you attempt more tasks.
-
-## Checklist
-
-- [ ] Webots installed and working
-- [ ] Level 1, Task 1A completed (compulsory)
-- [ ] Meaningful names used for inputs, outputs and variables
-- [ ] Code, project files and screenshots committed in `level-1-we-bots/task-1a/`
-- [ ] Mentors added as collaborators
+Add further task folders under `level-1-we-bots/` (for example `task-1b/`) if you attempt more tasks and it is okay to become curious, do your own fun robots and don't forget to add them here !!
