@@ -25,12 +25,3 @@ Use [`exercise_template.md`](exercise_template.md) as the starting point.
 └── screenshots/
     └── progress.png        <- screenshot of the completed progress page
 ```
-
-## Checklist
-
-- [ ] Levels 1–10 completed (bonus: all 23)
-- [ ] Progress-page screenshot added to `screenshots/`
-- [ ] `exercise_<no>.md` written for each exercise
-- [ ] Each file covers what it taught you, commands learned, challenges faced
-- [ ] Everything committed and pushed
-- [ ] Mentors added as collaborators
